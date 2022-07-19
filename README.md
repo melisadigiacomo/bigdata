@@ -29,7 +29,7 @@ Data sources:
 • Orders file: orders.csv  
 • Google Sheets: bbdd_integrador.gsheet
 
-The data reqeusted by the customer was:  
+The data requested by the customer was:  
 • Total orders  
 • Total sales amount  
 • Sales per article  
@@ -46,6 +46,10 @@ The data reqeusted by the customer was:
 • Top 5 countries with their customers and total amounts
 
 ![GDS2](images/GDS2.png)
+
+## Development
+
+All request were answered with dynamic data visualizations that the customer can select, filter and get details while hover. A dark theme was selected to highlight visualizations with colors. Barplots were selected to displays measuments of different dimensions. They were plotted horizontally to facilitate labels reading. A line plot was selected to display time series information as a continuous. Dinamic tables with filters were used for more detailed information.
 
 
 # [Python data analysis project](https://deepnote.com/@data-analysis-352e/Big-Data-Final-Project-Di-Giacomo-Melisa-97af6527-c629-4060-9781-4e1541ce282d)  
@@ -86,6 +90,7 @@ Data sources:
 ### Conclusions    
 
 ## Development
+
 First of all I had to be able to read datasets in python of different extensions and convert them into dataframes. I had to read CSV and Excel files and also a database. I used Pandas, SQLite3 and openpyxl libraries to do that.
 I explored the data (number of columns and entries, presence of null values, data types, unique indexes) and prepared it. Finally, I integrated all data frames into one to work with.  
 In the problem solving part I was asked four questions for which I had to build an analytical and graphical answer. At the end I had to ask four questions myself and answer them.  

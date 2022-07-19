@@ -52,11 +52,11 @@ The data requested by the customer was:
 All request were answered with dynamic data visualizations that the customer can select, filter and get details while hover. A dark theme was selected to highlight visualizations with colors. Barplots were selected to displays measuments of different dimensions. They were plotted horizontally to facilitate labels reading. A line plot was selected to display time series information as a continuous. Dinamic tables with filters were used for more detailed information.
 
 
-# [Python data analysis project](https://deepnote.com/@data-analysis-352e/Big-Data-Final-Project-Di-Giacomo-Melisa-97af6527-c629-4060-9781-4e1541ce282d)  
+# [Python data analysis project](https://deepnote.com/@data-analysis-352e/Big-Data-Final-Project-Di-Giacomo-Melisa-97af6527-c629-4060-9781-4e1541ce282d) 
+
+## LINK: [Python data analysis report](https://deepnote.com/@data-analysis-352e/Big-Data-Final-Project-Di-Giacomo-Melisa-97af6527-c629-4060-9781-4e1541ce282d) 
 
 ![report_gif](images/report.gif)  
-
-## LINK: [Python data analysis report](https://deepnote.com/@data-analysis-352e/Big-Data-Final-Project-Di-Giacomo-Melisa-97af6527-c629-4060-9781-4e1541ce282d)   
 
 This project is a report for a customer.
 
@@ -72,13 +72,13 @@ Data sources:
 ![report](images/report.png)  
 
 ## Table of contents  
-### Step 1: project scope and data collection  
-### Step 2: data exploration and preparation  
+### - Step 1: project scope and data collection  
+### - Step 2: data exploration and preparation  
 1. Data exploration  
 2. Data preparation  
-### Step 3: define the model  
-### Step 4: pipelines to reach the model  
-### Step 5: problem solving  
+### - Step 3: define the model  
+### - Step 4: pipelines to reach the model  
+### - Step 5: problem solving  
 1. What is the best selling article (in units)?  
 2. Which article is the one that brings the highest income?  
 3. Which seller should be awarded the bonus for "best seller of the month"?  
@@ -87,7 +87,7 @@ Data sources:
 6. What is the correlation between countries and the top five articles?  
 7. Which is the top article of each country?  
 8. Finally, which is the best country and what are the total sales amounts of the top five articles?  
-### Conclusions    
+### - Conclusions    
 
 ## Development
 
@@ -98,11 +98,11 @@ In the final part I had to write conclusions and proposals.
 
 ## Notebook with python codes
 
-## LINK: [Deepnote notebook with Python codes](https://deepnote.com/workspace/data-analysis-352e-ba39934f-0d8a-43eb-90d5-dfcaac9dda1c/project/Big-Data-Final-Project-Di-Giacomo-Melisa-97af6527-c629-4060-9781-4e1541ce282d/%2FBigData_Project.ipynb) 
+### LINK: [Deepnote notebook with Python codes](https://deepnote.com/workspace/data-analysis-352e-ba39934f-0d8a-43eb-90d5-dfcaac9dda1c/project/Big-Data-Final-Project-Di-Giacomo-Melisa-97af6527-c629-4060-9781-4e1541ce282d/%2FBigData_Project.ipynb) 
 
 ![notebook_gif](images/notebook.gif) 
 
-I built the notebook in deepnote. All codes were developed for reuse with new datasets from the same clients in subsequent months. Changing the three files at the beginnign and rerunning the notebook will create the report of next month.
+I built the notebook in deepnote. All codes were developed for reuse with new datasets from the same customer in subsequent months. Changing the three files at the begining and rerunning the notebook will create the report of next month.
 
 ![notebook](images/notebook.png)   
 ![notebook1](images/notebook1.png) 
@@ -110,8 +110,7 @@ I built the notebook in deepnote. All codes were developed for reuse with new da
 
 ## Data viz
 
-I used Matplotlib and Seaborn libraries for data visualization. All plots retain same color palettes. In the graphic resolution I highlighted the correct answer to make it easily visible. Barplots were plotted horizontally to easy labels reading.
-
+I used Matplotlib and Seaborn libraries for data visualization. Plot settings were established at the begining. All plots retain same color palettes. In the graphic resolution I highlighted the correct answer to make it easily visible. Barplots were plotted horizontally to ease label reading, except the ones that show increased or decreased numbers.
 
 ![report1](images/report1.png) 
 

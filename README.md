@@ -4,6 +4,7 @@ I collected the final projects of the BIG DATA course taken in 2022:
 
 - [Google Data Studio Project](https://datastudio.google.com/s/uEVVnRH041U)
 - [Python Data Analysis Project](https://deepnote.com/@data-analysis-352e/Big-Data-Final-Project-Di-Giacomo-Melisa-97af6527-c629-4060-9781-4e1541ce282d)
+- [SQL Data Analysis Project](SQL_queries/sql_bigdata.sql)
 
 ![CodoaCodo](images/CaC.png)
 
@@ -52,7 +53,7 @@ The data requested by the customer was:
 All request were answered with dynamic data visualizations that the customer can select, filter and get details while hover. A dark theme was selected to highlight visualizations with colors. Barplots were selected to displays measuments of different dimensions. They were plotted horizontally to facilitate labels reading. A line plot was selected to display time series information as a continuous. Dinamic tables with filters were used for more detailed information.
 
 
-# [Python data analysis project](https://deepnote.com/@data-analysis-352e/Big-Data-Final-Project-Di-Giacomo-Melisa-97af6527-c629-4060-9781-4e1541ce282d) 
+# [Python data analysis project](https://deepnote.com/@data-analysis-352e/Big-Data-Final-Project-Di-Giacomo-Melisa-97af6527-c629-4060-9781-4e1541ce282d) <a id="python"></a>
 
 ## LINK: [Python data analysis report](https://deepnote.com/@data-analysis-352e/Big-Data-Final-Project-Di-Giacomo-Melisa-97af6527-c629-4060-9781-4e1541ce282d) 
 
@@ -117,3 +118,11 @@ I used Matplotlib and Seaborn libraries for data visualization. Plot settings we
 ![report2](images/report2.png) 
 
 ![notebook2](images/notebook2.png) 
+
+
+# [SQL data analysis project](SQL_queries/sql_bigdata.sql)
+
+In this new part of the project I integrated the three datasets from the [Python Data Analysis Report](#python) (articles, sellers and orders).  
+I used SQL queries to answer some of the questions I have already solved in Python.
+
+![SQL](images/sql_bigdata.png)

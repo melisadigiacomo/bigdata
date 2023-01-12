@@ -2,9 +2,9 @@
 
 I collected the final projects of the BIG DATA course taken in 2022:
 
-- [Google Data Studio Project](#GDS)
+- [Google Data Studio Project](#googledatastudio)
 - [Python Data Analysis Project](#python)
-- [SQL Data Analysis Project](#SQL)
+- [SQL Data Analysis Project](#sql)
 
 ![CodoaCodo](images/CaC.png)
 
@@ -18,7 +18,7 @@ I collected the final projects of the BIG DATA course taken in 2022:
 ![Statistics](https://img.shields.io/badge/-Statistics-00a7c4?logo=Statistics&logoColor=white&style=flat) 
 ![Python](https://img.shields.io/badge/-Python-34729a?logo=python&logoColor=white&style=flat)
 
-# [Google Data Studio project](https://datastudio.google.com/s/uEVVnRH041U) <a id="GDS"></a>
+# [Google Data Studio project](https://datastudio.google.com/s/uEVVnRH041U) <a id="googledatastudio"></a>
 
 ![GDS](images/gds.gif)
 
@@ -120,7 +120,7 @@ I used Matplotlib and Seaborn libraries for data visualization. Plot settings we
 ![notebook2](images/notebook2.png) 
 
 
-# [SQL data analysis project](SQL_queries/sql_bigdata.sql) <a id="SQL"></a>
+# [SQL data analysis project](SQL_queries/sql_bigdata.sql) <a id="sql"></a>
 
 In this new part of the project I integrated the three datasets from the [Python Data Analysis Report](#python) (articles, sellers and orders).  
 I used SQL queries to answer some of the questions I have already solved in Python.
